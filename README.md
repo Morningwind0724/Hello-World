@@ -11,3 +11,4 @@ public class Myjava {
     }
 }
 1123
+git commit -m "Day1: 完成环境验证+基础计算器"  
